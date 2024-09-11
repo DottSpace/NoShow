@@ -25,3 +25,6 @@ Requisiti
  ● LEGGIERE LA LICENZA
 
  ● READ THE LICENSE
+
+ 
+![Logo](https://github.com/user-attachments/assets/bc32b31f-b973-4220-a10f-4ad1ea3b431d)
