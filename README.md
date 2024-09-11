@@ -18,3 +18,8 @@ protetti con crittografia Fernet, garantendo la sicurezza dei tuoi dati sensibil
 
 >Aggiornamenti Automatici: Controlla automaticamente la presenza di nuovi aggiornamenti e installali con facilità.
 Requisiti
+
+
+LEGGIERE LA LICENZA
+
+READ THE LICENSE
