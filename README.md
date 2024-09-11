@@ -20,6 +20,8 @@ protetti con crittografia Fernet, garantendo la sicurezza dei tuoi dati sensibil
 Requisiti
 
 
-LEGGIERE LA LICENZA
 
-READ THE LICENSE
+
+ ● LEGGIERE LA LICENZA
+
+ ● READ THE LICENSE
