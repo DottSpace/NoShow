@@ -1,7 +1,7 @@
 # NoShow
 
 NoShow è un'applicazione di testo sicura basata su Python, progettata per proteggere i
-tuoi file con crittografia avanzata. Con NoShow Ultimate, puoi creare, aprire e condividere documenti
+tuoi file con crittografia avanzata. Con NoShow, puoi creare, aprire e condividere documenti
 protetti con crittografia Fernet, garantendo la sicurezza dei tuoi dati sensibili.
 
 # Funzionalità Principali
