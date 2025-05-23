@@ -1,4 +1,5 @@
-# Basilisk 🐍
+# Basilisk <img src="https://github.com/user-attachments/assets/fdcc69c1-abbe-414b-a865-cd033dec0eb7" width="30">
+
 
 Basilisk è un'applicazione di testo sicura basata su Python, progettata per proteggere i
 tuoi file con crittografia avanzata. Con Basilisk, puoi creare, aprire e condividere documenti
