@@ -1,9 +1,9 @@
-Licenza per NoShow
+Licenza per Basilisk
 
-L'uso del software NoShow è consentito esclusivamente per scopi personali e leciti. È vietato distribuire, vendere o modificare il software in qualsiasi forma. La decriptazione non autorizzata dei file con estensione .NoShow e la creazione di strumenti o programmi per tale scopo sono considerate violazioni legali. Qualsiasi violazione dei termini di questa licenza può comportare conseguenze legali.
+L'uso del software Basilisk è consentito esclusivamente per scopi personali e leciti. È vietato distribuire, vendere o modificare il software in qualsiasi forma. La decriptazione non autorizzata dei file con estensione .Basilisk e la creazione di strumenti o programmi per tale scopo sono considerate violazioni legali. Qualsiasi violazione dei termini di questa licenza può comportare conseguenze legali.
 
 
 
 
 License
-NoShow is licensed for personal and lawful use only. Redistribution, sale, or modification of the software is prohibited. Unauthorized decryption of .NoShow files and the creation of tools for such purposes are considered legal violations and may result in legal consequences.
+Basilisk is licensed for personal and lawful use only. Redistribution, sale, or modification of the software is prohibited. Unauthorized decryption of .Basilisk files and the creation of tools for such purposes are considered legal violations and may result in legal consequences.
