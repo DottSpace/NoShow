@@ -26,5 +26,5 @@ Requisiti
 
  ● READ THE LICENSE
 
- 
-![Logo](https://github.com/user-attachments/assets/bc32b31f-b973-4220-a10f-4ad1ea3b431d)
+
+<img src="https://github.com/user-attachments/assets/fdcc69c1-abbe-414b-a865-cd033dec0eb7" width="100">
