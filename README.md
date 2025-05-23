@@ -1,14 +1,14 @@
-# NoShow
+# Basilisk
 
-NoShow è un'applicazione di testo sicura basata su Python, progettata per proteggere i
-tuoi file con crittografia avanzata. Con NoShow, puoi creare, aprire e condividere documenti
+Basilisk è un'applicazione di testo sicura basata su Python, progettata per proteggere i
+tuoi file con crittografia avanzata. Con Basilisk, puoi creare, aprire e condividere documenti
 protetti con crittografia Fernet, garantendo la sicurezza dei tuoi dati sensibili.
 
 # Funzionalità Principali
 >Crittografia Sicura: Utilizza la libreria cryptography con l'algoritmo Fernet per proteggere i tuoi file di testo.
 
 
->Gestione di File: Apri, crea, salva e stampa file con estensione .NoShow.
+>Gestione di File: Apri, crea, salva e stampa file con estensione .Basilisk.
 
 >Cambia Password: Possibilità di cambiare la password di decriptazione per una maggiore sicurezza.
 
