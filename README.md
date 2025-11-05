@@ -1,4 +1,7 @@
-# NoShow <img src="[https://github.com/user-attachments/assets/fdcc69c1-abbe-414b-a865-cd033dec0eb7](https://private-user-images.githubusercontent.com/151652692/366509739-f2834003-43d2-442c-bf10-2be41225a628.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIzNTIwMjYsIm5iZiI6MTc2MjM1MTcyNiwicGF0aCI6Ii8xNTE2NTI2OTIvMzY2NTA5NzM5LWYyODM0MDAzLTQzZDItNDQyYy1iZjEwLTJiZTQxMjI1YTYyOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwNVQxNDA4NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZjYyNzkyZjIxNjE5NzhiNWUwZmNjYjZkMmUzYWExMDYzZDQ1MmExNmNjOTMyYjcxYTAzNDI4ZDMxNzlkYTdmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9thKtapsM4OZVpLhG8V4nWQXWfIgZUA_DxiEYwQEw94)" width="30">
+# NoShow <img src="<img width="256" height="256" alt="366509739-f2834003-43d2-442c-bf10-2be41225a628" src="https://github.com/user-attachments/assets/16c6b7b8-d72e-462f-b787-9ef89da35f1a" />
+" width="30">
+
+
 
 
 NoShow è un'applicazione di testo sicura basata su Python, progettata per proteggere i
@@ -28,4 +31,5 @@ Requisiti
  ● READ THE LICENSE
 
 
-<img src="https://github.com/user-attachments/assets/fdcc69c1-abbe-414b-a865-cd033dec0eb7" width="100">
+<img width="256" height="256" alt="366509739-f2834003-43d2-442c-bf10-2be41225a628" src="https://github.com/user-attachments/assets/16c6b7b8-d72e-462f-b787-9ef89da35f1a" /> " width="30">
+
