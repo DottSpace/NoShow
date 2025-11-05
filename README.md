@@ -1,4 +1,4 @@
-# NoShow <img width="256" height="256" alt="366509739-f2834003-43d2-442c-bf10-2be41225a628" src="https://github.com/user-attachments/assets/16c6b7b8-d72e-462f-b787-9ef89da35f1a" width="10">
+# NoShow <img width="256" height="256" alt="366509739-f2834003-43d2-442c-bf10-2be41225a628" src="https://github.com/user-attachments/assets/16c6b7b8-d72e-462f-b787-9ef89da35f1a" width="2">
 
 
 
